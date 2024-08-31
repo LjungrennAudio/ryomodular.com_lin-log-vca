@@ -1,0 +1,38 @@
+top half is two lots of 5 knobs plus middles;
+bottom half is two lots of 5 sockets plus extras:
+					
+-------------------			      ------------------		
+	O		*switch*		*O lin/log	 
+-------------------			      ------------------		
+O		O	knobs		*O input gain A	*O input offset	
+					
+	O		knob			O cv atten	
+					
+O		O	knobs		*O velocity v	*O velocity offset	
+-------------------			      ------------------		
+o	O	o	knob		A > 1:1 O mix balance >	B
+-------------------			      ------------------		
+O		O	knobs		*O input gain A	*O input offset	
+					
+	O		knob			O cv atten	
+					
+O		O	knobs		*O velocity v	*O velocity offset	
+-------------------			      ------------------		
+-------------------			      ------------------	
+	O		*switch*		*O  lin/log	 
+-------------------			      ------------------	
+-------------------			      ------------------	
+O		O	sockets		*O cv IN	*O dc output A 	
+					
+	O		socket			*O INPUT 
+					
+O		O	sockets		*O VELOCITY	*O ac OUTPUT A	
+-------------------			      ------------------		
+	O		socket			O mix out
+-------------------			      ------------------		
+O		O	sockets		*O cv IN	*O dc output A 	
+					
+	O		socket			*O INPUT 
+					
+O		O	sockets		*O VELOCITY	*O ac OUTPUT B	
+-------------------			      ------------------		
